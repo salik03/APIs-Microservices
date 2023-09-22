@@ -9,7 +9,7 @@ except FileNotFoundError:
 
 
 if existing_data is None:
-    data = pd.DataFrame(columns=["AID", "Article", "NAME", "USERNAME", "STATUS", "INSURED", "PRODUCT TYPE", "RATE", "COUNTRY"])
+    data = pd.DataFrame(columns=["AID", "Article", "NAME", "INSURED", "PRODUCT TYPE", "GROSS WT", "COUNTRY"])
 else:
     data = existing_data
 
