@@ -1,0 +1,5 @@
+Country,Product_Type,prd_gross_wt,articletype,id,producttype,servicecat,articleweight,nondeliveryinst,nameofreceipient,receipientaddressline1,receipientcity,receipientpincode,receipientcountry,selffilling,totalval,hscode,prd_desc,prd_qty_unit,count,prd_wgt_net,origincountry,senderref,receipientref,receipientcompname,receipientaddressline2,receipientemail,receipientmobile,insurancevaluesdr,invoiceno,prd_inv_date,ecomm,tax_inv_date,tax_inv_sno,tax_inv_val,asbl_fob,asbl_curr,expo_duty_rate,expo_duty_amt,cess_rate,cess_amt,lut_bond_det,comp_cess_rate,comp_ces_amt,t_duty,t_cess
+saudi,1,200,sfes,ssgfdg,gergegs,geeg,fgd,dfgd,gdgf,dgfgdf,dfgdgdfgd,gdgfdgd,gdgdfg,fdgdf,dgfdgdf,gdfgfdgd,gdgfd,gfdgd,gdgd,gdfgd,gdgd,gdgd,ggfd,ggf,,,,,,,,,,,,,,,,,,,,,
+usa,3,1500,dsfdsg,gfgfdd,gfdgfdgfd,gfdgfdg,gfdgdfg,fgdgfdg,fdgdfgfd,gdfgfdgd,gdgfdgfd,gdgdfgfdg,gdfgdf,gfdgfdgd,gdfgdfg,gdgd,gfdgdfg,gdfgdf,gfdgfdg,gdgfdg,gdgfg,gdg,,,,,,,,,,,,,,,,,,,,,,,
+brazil,2,300,sfds,fdfs,fsfsd,fsdfsd,fsdfsd,fsfs,fsdfs,fsfsddff,fsdfsd,sdfsd,fsdfds,fsdfs,fsd,ffsdf,fdsfdfd,fsfdfds,dfds,fdfsdfdfd,ffsdfs,fdf,,,,,,,,,,,,,,,,,,,,,,,
+usa,1,200,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
